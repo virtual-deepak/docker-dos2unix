@@ -4,4 +4,4 @@ This repository has a sample python web application containerized using docker a
 Error it resolves 
 `syntax error near unexpected token fi'`
 
-Background on this can be found at https://deeconstantlearner.blogspot.com/2020/12/shell-script-error-syntax-error-near.html
+Background on this can be found at https://virtualdeepak.com/2020/12/shell-script-error-syntax-error-near.html
